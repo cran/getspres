@@ -1,12 +1,12 @@
-8dfd933931dee0bd3e5eae2887e65a6b *DESCRIPTION
+822c9074cdaa62a9be2eab61aba06973 *DESCRIPTION
 5ebdcab32edf48a0b017b4bbe7734a4e *LICENSE
 f2199d477b5c90f31b0027265b557889 *NAMESPACE
-41a2a5122361c7006b329ab1ab12573c *NEWS.md
-b572595fdf388d639f6a9a863c61b381 *R/compute_spre_statistics.R
+9f54237bb5f1bce459c60d720c4076ff *NEWS.md
+7a7b56dd628eaae0515c64721fb5404c *R/compute_spre_statistics.R
 e60140670c0fb476f13faa6c6a079aba *R/data.R
 c48c3fd46c4989d0b7f2c871865ec87e *R/driver_compute_spre_statistics.R
-fa8363bbb590271d15db77a0d45ca847 *R/driver_generate_forestplot_incl_spres.R
-e43bbc459ba87589112b9a86096a90af *R/generate_forestplot_incl_spres.R
+22f9f6a6a1d6e7ad197058eb488c3a47 *R/driver_generate_forestplot_incl_spres.R
+6f9ab16f423ac2f6a69380e14fa44e1a *R/generate_forestplot_incl_spres.R
 538f692d5a199b262c81dfb9ba18c691 *R/getspres_welcome.R
 02be1304e21cb3ac020ff11e3f9b2007 *build/vignette.rds
 8387d780003cdecafe7505fc4896d7cd *data/heartgenes214.rda
@@ -16,7 +16,7 @@ ccc4cf4db98cc636e58c1155c788d82b *inst/doc/getspres-tutorial.Rmd
 972f1e38ddce1b578c6d47bf4013a262 *inst/doc/getspres-tutorial.html
 c93a7e075ff0adcb78d06f47c27f6ad1 *man/getspres.Rd
 abb57dc72b83475a66bce47a9d83512d *man/heartgenes214.Rd
-3837d54e616f6640055f5ee678df3b1c *man/plotspres.Rd
+56d7522d5102abfb5617e324874a5661 *man/plotspres.Rd
 d59e81d944f86a92da35c6e9ca125a7a *tests/testthat.R
 36df3abe23deb8fe523be4f68b7d2b5c *tests/testthat/forestplot_fixed_effect_sortedby_betas_variant_name_rs10139550_snp_no_1.tif
 96d4a2cf8849fcc72b585790876af804 *tests/testthat/test_getspres_analysis_examples_using_3_lead_variants_in_heartgenes214.R
