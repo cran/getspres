@@ -1,6 +1,6 @@
 Package: getspres
 Title: SPRE Statistics for Exploring Heterogeneity in Meta-Analysis
-Version: 0.1.1
+Version: 0.2.0
 Authors@R: c(
     person("Lerato E", "Magosi", email = "lmagosi@well.ox.ac.uk", 
     role = "aut",),
@@ -27,18 +27,18 @@ License: MIT + file LICENSE
 URL: https://magosil86.github.io/getspres/
 BugReports: https://github.com/magosil86/getspres/issues
 LazyData: true
-RoxygenNote: 6.1.1
-Suggests: knitr (>= 1.10.5), testthat, covr
+RoxygenNote: 7.1.1
+Suggests: knitr (>= 1.10.5), testthat, covr, rmarkdown
 VignetteBuilder: knitr
 Imports: metafor (>= 1.9-6), dplyr (>= 0.4.1), plotrix (>= 3.5-12),
         colorspace (>= 1.2-6), RColorBrewer (>= 1.1-2), colorRamps (>=
         2.3)
 NeedsCompilation: no
-Packaged: 2020-03-31 12:01:46 UTC; lmagosi
+Packaged: 2021-05-09 05:03:54 UTC; lmagosi
 Author: Lerato E Magosi [aut],
   Jemma C Hopewell [aut],
   Martin Farrall [aut],
   Lerato E Magosi [cre]
 Maintainer: Lerato E Magosi <magosil86@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-03-31 14:10:02 UTC
+Date/Publication: 2021-05-09 05:30:03 UTC

@@ -1,3 +1,10 @@
+# getspres 0.2.0
+
+## Minor improvements
+
+* Added rmarkdown to suggested dependencies
+
+
 # getspres 0.1.1
 
 ## Minor improvements
